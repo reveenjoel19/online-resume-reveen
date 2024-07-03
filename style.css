@@ -1,0 +1,35 @@
+*{
+    background-color:#e3fafc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #0b7285;
+}
+.header img{
+    border-radius: 50%;
+
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2{
+    background-color: #0b7285;
+    color:#e3fafc;
+    text-align: center;
+    padding: 10px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading img{
+    border-radius: 50%;
+}
+
+.Social{
+    text-align: center;
+}
